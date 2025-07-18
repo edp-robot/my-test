@@ -1,0 +1,1 @@
+1. Application my-test-gh has been successfully deployed!!
